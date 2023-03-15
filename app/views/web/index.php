@@ -14,7 +14,7 @@
                 </div>
             </div>
             <div class="dog_thumb d-none d-lg-block">
-                <img src="<?= BASEURL; ?>/assets_web/img/banner/zakat.png" alt="">
+                <img src="<?= BASEURL; ?>" alt="">
             </div>
         </div>
     </div>

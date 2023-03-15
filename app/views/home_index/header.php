@@ -21,7 +21,7 @@ if(!isset($_SESSION['username'])){
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon
     ============================================ -->
-    <link rel="shortcut icon" type="image/x-icon" href="<?= BASEURL; ?>/assets/img/baz.png">
+    <link rel="shortcut icon" type="image/x-icon" href="<?= BASEURL; ?>/assets/img/upz.png">
     <!-- Google Fonts
     ============================================ -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i,800" rel="stylesheet">

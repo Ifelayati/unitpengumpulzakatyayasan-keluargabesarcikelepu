@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="<?= BASEURL; ?>/assets_web/img/baz.png">
+    <link rel="shortcut icon" type="image/x-icon" href="<?= BASEURL; ?>/assets_web/img/upz.png">
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
@@ -61,7 +61,7 @@
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo">
                                 <a href="<?=BASEURL;?>/Web/index">
-                                    <img src="<?= BASEURL; ?>/assets_web/img/upz.jpg" style="width: 120px" alt="">
+                                    <img src="<?= BASEURL; ?>/assets_web/img/upz.png" style="width: 120px" alt="">
                                 </a>
                             </div>
                         </div>

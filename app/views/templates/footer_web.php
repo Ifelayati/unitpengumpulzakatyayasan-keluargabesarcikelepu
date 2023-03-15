@@ -7,7 +7,7 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="<?= BASEURL; ?>/assets_web/img/upz.jpg" alt="">
+                                    <img src="<?= BASEURL; ?>/assets_web/img/upz.png" alt="">
                                 </a>
                             </div>
                             <p class="address_text">Unit Pengumpul Zakat Yayasan Keluarga Besar Cikelepu
