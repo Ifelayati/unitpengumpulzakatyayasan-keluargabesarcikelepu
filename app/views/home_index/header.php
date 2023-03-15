@@ -84,7 +84,7 @@ if(!isset($_SESSION['username'])){
                     </a>
                     <h3><?= $_SESSION['username'];?></h3>
                     <p><?= $level;?></p>
-                    <strong>UPZ</strong>
+                    <strong>BAZ</strong>
                 </div>
                 <div class="left-custom-menu-adp-wrap">
                     <ul class="nav navbar-nav left-sidebar-menu-pro">
