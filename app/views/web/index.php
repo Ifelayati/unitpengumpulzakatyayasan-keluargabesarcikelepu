@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-lg-5 col-md-6">
                         <div class="slider_text">
-                            <h3>Zakat <br> <span></span></h3>
+                            <h3>ZAKAT<br> <span></span></h3>
                             <p>Mari berbagi kebahagiaan <br> terhadap sesama, dan raih jannah-Nya.</p>
                             <br>
                             <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn4">Donasi</a>

@@ -1,6 +1,6 @@
 <?php
  
-define('BASEURL', 'http://localhost/unitpengumpulzakatyayasan keluargabesarcikelepu');
+define('BASEURL', 'http://localhost/unitpengumpulzakatyayasan-keluargabesarcikelepu');
 
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
