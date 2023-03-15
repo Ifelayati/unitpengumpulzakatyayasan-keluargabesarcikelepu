@@ -35,7 +35,7 @@ class Web_model {
 				
 				$total_beras=0;
 				$total_uang=0;
-				$cek_zakat=$db->query("SELECT * FROM t_pembayaran JOIN t_pembayar USING(id_pembayar) JOIN t_amil USING(id_amil) join t_zakat using(id_zakat) join t_mesjid where t_pembayar.id_mesjid = t_mesjid.id_mesjid and t_pembayar.id_mesjid = '$id_mesjid'");
+				$cek_zakat=$db->query("SELECT * FROM t_pembayaran JOIN t_pembayar USING(id_pembayar) JOIN t_amil USING(id_amil) join t_zakat using(id_zakat) join t_mesjid where t_pembayar.id_program = t_mesjid.id_mesjid and t_pembayar.id_mesjid = '$id_mesjid'");
 				while ($lihat_zakat=$cek_zakat->fetch()){
 					$jml = $lihat_zakat['total_pembayaran'];
                     $jml2 = strlen($jml);
