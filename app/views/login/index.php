@@ -10,7 +10,7 @@
 
     <!-- favicon
     ============================================ -->
-    <link rel="shortcut icon" type="image/x-icon" href="<?= BASEURL; ?>/assets_web/img/upz.jpg">
+    <link rel="shortcut icon" type="image/x-icon" href="<?= BASEURL; ?>/assets_web/img/upz.png">
     <!-- Google Fonts
     ============================================ -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i,800" rel="stylesheet">
@@ -73,7 +73,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="logo">
-                                                <a href="#"><img src="<?= BASEURL; ?>/assets_web/img/upz.jpg" alt="" />
+                                                <a href="#"><img src="<?= BASEURL; ?>/assets_web/img/upz.png" alt="" />
                                                 </a>
                                             </div>
                                         </div>
