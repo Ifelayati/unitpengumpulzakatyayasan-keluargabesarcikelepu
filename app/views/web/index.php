@@ -135,16 +135,6 @@
     </tr>
   </tbody>
 </table>
-<div class="container px-4 text-center">
-  <div class="row gx-5">
-    <div class="col">
-     <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Bayar Zakat </a></div>
-    </div>
-    <div class="col">
-      <div class="p-3"><a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Konsultasi Zakat</a></div>
-    </div>
-  </div>
-</div>
 </div>
 <!--  akhir table peternakan  -->
 
@@ -207,16 +197,6 @@
     </tr>
   </tbody>
 </table>
-<div class="container px-4 text-center">
-  <div class="row gx-5">
-    <div class="col">
-     <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Bayar Zakat </a></div>
-    </div>
-    <div class="col">
-      <div class="p-3"><a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Konsultasi Zakat</a></div>
-    </div>
-  </div>
-</div>
 </div>
 <!--  akhir table pertanian  -->
 
@@ -245,9 +225,9 @@
     </div>
     <!-- pet_care_area_end  -->
 
-<!--  awal table Emas perak  Emas perak -->
+    <!--  awal table Emas perak  Emas perak -->
 <div class=" p-5">
-<table class="table  table-bordered border-primary ">
+    <table class="table  table-bordered border-primary ">
   <thead>
     <tr>
       <th scope="col">No</th>
@@ -271,17 +251,7 @@
     </tr>
     
   </tbody>
-</table>
-<div class="container px-4 text-center">
-  <div class="row gx-5">
-    <div class="col">
-     <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Bayar Zakat </a></div>
-    </div>
-    <div class="col">
-      <div class="p-3"><a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Konsultasi Zakat</a></div>
-    </div>
-  </div>
-</div>
+  </table>
 </div>
 <!--  akhir table Emas perak  -->
 
@@ -308,35 +278,25 @@
                 </div>
             </div>
         </div>
-     <div class="container px-4 text-center">
-     <div class="row gx-5">
-      <div class="col">
-      <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Bayar Zakat </a></div>
-      </div>
-      <div class="col">
-      <div class="p-3"><a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Konsultasi Zakat</a></div>
-      </div>
-    </div>
-    </div>
-  </div>
 
+  </div>
     <!-- pet_care_area_end  Rikaz -->
-    <!-- pet_care_area_start Emas perak  -->
+
+    <!-- pet_care_area_start dagang  -->
     <div class="pet_care_area">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 col-md-6">
                     <div class="pet_thumb">
-                        <img src="<?= BASEURL; ?>/assets_web/img/about/emas.png" alt="">
+                        <img src="<?= BASEURL; ?>/assets_web/img/about/Dagang.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 offset-lg-1 col-md-6">
                     <div class="pet_info">
                         <div class="section_title">
-                        <h4> <span>Zakat Emas dan perak </span>
+                        <h4> <span>Zakat Harta Dagang </span>
                                 </h4>
-                            <p> Zakat Emas dan Perak adalah zakat yang wajib dikeluarkan oleh muslim ketika mempunyai emas dan perak dengan nisab 20 mistaqol atau 1,5 dirham (93,6 gram ) untuk emas dan 100 dirham (624 gram ) untuk pera, dan keduanya merupakan emas dan perak simpanan dalam artian tidak dikenakan<br> yang dimiliki selama 1 tahun,adapun zakat yang harus dikeluarkannya adalah 1/4 dari 1/10 atau 2,5%<br>
-                            penjelasan lehih lanjut seperti table berikut  
+                            <p>   Zakat harta dagangan nisabnya jika total harta daganagn telah mencapai nisab emas dan perak jika diuangkan,dengan syarat harus sudah melebihi 1 tahun atau haul,dan apa bila belum genap 1 tahun maka tidak diwajibkan zakat.<br> zakat yang wajib dibayarkan adalah 1/10 atau 2,5% dari total harta dagangan 
                             </p>
                         </div>
                     </div>
@@ -344,44 +304,72 @@
             </div>
         </div>
     </div>
-    <!-- pet_care_area_end  -->
+    <!-- pet_care_area_end dagang -->
 
-<!--  awal table Emas perak  Emas perak -->
-<div class=" p-5">
-<table class="table  table-bordered border-primary ">
-  <thead>
-    <tr>
-      <th scope="col">No</th>
-      <th scope="col">Jenis</th>
-      <th scope="col">Nisab/Haul</th>
-      <th scope="col">Zakat yang dibayarkan</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Emas</td>
-      <td>93,6 gram/1tahun </td>
-      <td>2,5%</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Perak</td>
-      <td>624 gram/1tahun</td>
-      <td>2,5%</td>
-    </tr>
-    
-  </tbody>
-</table>
-<div class="container px-4 text-center">
-  <div class="row gx-5">
-    <div class="col">
-     <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Bayar Zakat </a></div>
-    </div>
-    <div class="col">
-      <div class="p-3"><a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Konsultasi Zakat</a></div>
-    </div>
+    <!-- pet_care_area_start penghasilan  -->
+  <div class="pet_care_area">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 offset-lg-1 col-md-6">
+                    <div class="pet_info">
+                        <div class="section_title">
+                            <h4> <span> Zakat Penghasilan  </span> </h4>
+                            <p>Menurut Fatwa MUI No 3 tahun 2003 tentang Zakat Penghasilan,zakat pengahisan adalah penghasilan rutin seperti gaji pegawai/ karyawan atau penghasilan pejabat negara, maupun penghasilan tidak rutin seperti dokter, pengacara, konsultan, penceramah, dan sejenisnya, serta penghasilan yang diperoleh dari pekerjaan bebas lainnya,
+                              Semua bentuk penghasilan halal wajib dikeluarkan zakatnya dengan syarat telah mencapai nishab dalam satu tahun, yakni senilai emas 85 gram <br>
+                              zakat yang wajib dibayarkan adalah 2,5% dari total penghasilan 
+                            </p>
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-6">
+                    <div class="pet_thumb">
+                        <img src="<?= BASEURL; ?>/assets_web/img/about/penghasilan.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+
   </div>
-</div>
-</div>
-<!--  akhir table Emas perak  -->
+    <!-- pet_care_area_end  penghasilan -->
+
+
+        <!-- pet_care_area_start dagang  -->
+    <div class="pet_care_area">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-6">
+                    <div class="pet_thumb">
+                        <img src="<?= BASEURL; ?>/assets_web/img/about/Perusahaan.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 offset-lg-1 col-md-6">
+                    <div class="pet_info">
+                        <div class="section_title">
+                        <h4> <span>Zakat Harta Perusahaan dan investasi </span>
+                                </h4>
+                            <p> Hasil dari keuntungan investasi saham, wajib dikeluarkan zakatnya sesuai dengan kesepakatan para ulama pada Muktamar Internasional Pertama tentang zakat di Kuwait (29 Rajab 1404.) Namun para ulama berbeda tentang kewajiban pengeluaran zakatnya. <br>
+                             1.Jika perusahaan tersebut hanya bergerak di bidang layanan jasa, misalnya biro perjalanan, biro iklan, perusahaan jasa angkutan (darat, laut, udara), perusahaan hotel, maka sahamnya tidak wajib dizakati. Hal ini dikarenakan saham-saham itu terletak pada alat-alat, perlengkapan, gedung-gedung, sarana dan prasarana lainnya. Namun keuntungan yang diperoleh dimasukkan ke dalam harta para pemilik saham tersebut, lalu zakatnya dikeluarkan bersama harta lainnya jika telah mencapai haul dan nishab (jangka waktu dan jumlah tertentu). <br>
+                              2. Jika perusahaan tersebut adalah perusahaan dagang murni yang melakukan transaksi jual beli komoditi tanpa melakukan proses pengolahan, seperti perusahaan yang menjual hasil-hasil industri, perusahaan dagang dalam negeri, perusahaan ekspor-impor, dan lain lain, maka saham-saham perusahaan tersebut wajib dikeluarkan zakatnya di samping zakat atas keuntungan yang diperoleh. Caranya adalah dengan menghitung kembali jumlah keseluruhan saham kemudian dikurangi harga alat-alat, barang-barang ataupun inventaris lainnya. Besarnya kadar zakat adalah 2,5 persen dan bisa dikeluarkan setiap akhir tahun. <br>
+                              3. Jika perusahaan tersebut bergerak di bidang industri dan perdagangan sekaligus, artinya melakukan pengolahan suatu komoditi dan kemudian menjual kembali hasil produksinya, seperti perusahaan Minyak dan Gas (MIGAS), perusahaan pengolahan mebel, marmer dan sebagainya, maka sahamnya wajib dizakatkan dengan mekanisme yang sama dengan perusahaan kategori kedua. <br>
+                              <br>Nishab: dianalogikan dengan zakat perdagangan: 85 gr emas Haul: 1 tahun Kadar: 2,5 % Penghitungan zakat: nilai kumulatif riil saham (book value + dividen) x 2,5 %
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container px-4 text-center">
+          <div class="row gx-5">
+            <div class="col">
+            <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Bayar Zakat</a> </div>
+            </div>
+            <div class="col">
+              <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Konsultasi Zakat</a> </div>
+            </div>
+          </div>
+        </div>
+    </div>
+    <!-- pet_care_area_end dagang -->
+
+
