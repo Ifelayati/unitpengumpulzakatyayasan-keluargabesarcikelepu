@@ -20,7 +20,7 @@
     </div>
     <!-- slider_area_end -->
 
-    <!-- pet_care_area_start  -->
+    <!-- pet_care_area_start Fitrah   -->
     <div class="pet_care_area">
         <div class="container">
             <div class="row align-items-center">
@@ -51,10 +51,10 @@
             </div>
         </div>
     </div>
-    <!-- pet_care_area_end  -->
+    <!-- pet_care_area_end  Fitrah -->
 
 
-    <!-- pet_care_area_start  -->
+    <!-- pet_care_area_start  zakat mal -->
     <div class="pet_care_area">
         <div class="container">
             <div class="row align-items-center">
@@ -77,9 +77,9 @@
             </div>
         </div>
     </div>
-    <!-- pet_care_area_end  -->
+    <!-- pet_care_area_end  zakat mal -->
 
-    <!-- pet_care_area_start  -->
+    <!-- pet_care_area_start peternakan  -->
     <div class="pet_care_area">
         <div class="container">
             <div class="row align-items-center">
@@ -101,9 +101,9 @@
             </div>
         </div>
     </div>
-    <!-- pet_care_area_end  -->
+    <!-- pet_care_area_end  peternakan -->
 
-<!--  awal table pertanian  -->
+<!--  awal table peternakan  -->
 <div class=" p-5">
 <table class="table  table-bordered border-primary ">
   <thead>
@@ -146,10 +146,10 @@
   </div>
 </div>
 </div>
-<!--  akhir table pertanian  -->
+<!--  akhir table peternakan  -->
 
 
-    <!-- pet_care_area_start  -->
+    <!-- pet_care_area_start pertanian  -->
     <div class="pet_care_area">
         <div class="container">
             <div class="row align-items-center">
@@ -158,7 +158,8 @@
                         <div class="section_title">
                             <h4> <span> Zakat Pertanian </span> </h4>
                             <p>Zakat pertanian adalah zakat yang wajib dikeluarkan bagi para petani,tetapi tidak semua buah hasil pertanian harus dikeluarkan zakatnya,menurut sebagain ulama ada 3 jenis hasil pertanian yang wajib dikeluarkan zakatnya diantaranya<br>Kurma,Anggur dan Hasil pertanian yang menjadi makanan poko 
-                            
+                            dengan nisab  5 wasak atau sekitar  720 kg dan haul 1 tahun,zakat yang harus dikeluarkan adalah 1/10 atau 10% 
+                            <br>Penjelasan lebih lanjut seperti table berikut
                             </p>
                            
                         </div>
@@ -166,10 +167,221 @@
                 </div>
                 <div class="col-lg-5 col-md-6">
                     <div class="pet_thumb">
-                        <img src="<?= BASEURL; ?>/assets_web/img/about/zakat_mal.jpg" alt="">
+                        <img src="<?= BASEURL; ?>/assets_web/img/about/tani.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- pet_care_area_end  pertanian -->
+
+    <!--  awal table pertanian  -->
+<div class=" p-5">
+<table class="table  table-bordered border-primary ">
+  <thead>
+    <tr>
+      <th scope="col">No</th>
+      <th scope="col">Jenis</th>
+      <th scope="col">Nisab/Haul</th>
+      <th scope="col">Zakat yang dibayarkan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Kurma</td>
+      <td>720 kg/ tahun</td>
+      <td>10% Dapat diuangkan </td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Anggur</td>
+      <td>720 kg/ tahun</td>
+      <td>10% Dapat diuangkan</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td >Hasil pertanian makana pokok</td>
+      <td>720 kg/ tahun</td>
+      <td>10% Dapat diuangkan</td>
+    </tr>
+  </tbody>
+</table>
+<div class="container px-4 text-center">
+  <div class="row gx-5">
+    <div class="col">
+     <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Bayar Zakat </a></div>
+    </div>
+    <div class="col">
+      <div class="p-3"><a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Konsultasi Zakat</a></div>
+    </div>
+  </div>
+</div>
+</div>
+<!--  akhir table pertanian  -->
+
+    <!-- pet_care_area_start Emas perak  -->
+    <div class="pet_care_area">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-6">
+                    <div class="pet_thumb">
+                        <img src="<?= BASEURL; ?>/assets_web/img/about/emas.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 offset-lg-1 col-md-6">
+                    <div class="pet_info">
+                        <div class="section_title">
+                        <h4> <span>Zakat Emas dan perak </span>
+                                </h4>
+                            <p> Zakat Emas dan Perak adalah zakat yang wajib dikeluarkan oleh muslim ketika mempunyai emas dan perak dengan nisab 20 mistaqol atau 1,5 dirham (93,6 gram ) untuk emas dan 100 dirham (624 gram ) untuk pera, dan keduanya merupakan emas dan perak simpanan dalam artian tidak dikenakan<br> yang dimiliki selama 1 tahun,adapun zakat yang harus dikeluarkannya adalah 1/4 dari 1/10 atau 2,5%<br>
+                            penjelasan lehih lanjut seperti table berikut  
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- pet_care_area_end  -->
+
+<!--  awal table Emas perak  Emas perak -->
+<div class=" p-5">
+<table class="table  table-bordered border-primary ">
+  <thead>
+    <tr>
+      <th scope="col">No</th>
+      <th scope="col">Jenis</th>
+      <th scope="col">Nisab/Haul</th>
+      <th scope="col">Zakat yang dibayarkan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Emas</td>
+      <td>93,6 gram/1tahun </td>
+      <td>2,5%</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Perak</td>
+      <td>624 gram/1tahun</td>
+      <td>2,5%</td>
+    </tr>
+    
+  </tbody>
+</table>
+<div class="container px-4 text-center">
+  <div class="row gx-5">
+    <div class="col">
+     <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Bayar Zakat </a></div>
+    </div>
+    <div class="col">
+      <div class="p-3"><a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Konsultasi Zakat</a></div>
+    </div>
+  </div>
+</div>
+</div>
+<!--  akhir table Emas perak  -->
+
+    <!-- pet_care_area_start Rikaz  -->
+  <div class="pet_care_area">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 offset-lg-1 col-md-6">
+                    <div class="pet_info">
+                        <div class="section_title">
+                            <h4> <span> Zakat Harta Rikaz </span> </h4>
+                            <p>Harta Rikaz atau harta karun adalah harta yang kita temukan baik sengaja atau pun tidak sengaja,apabila kita menemukan harta karun kita harus mengeluarkan zakat nya sebesar 1/5 atau sekitar 20% <br> dengan syarat telah melewati haul (1 tahun ),saat pertama kali menemukan sampai 1 tahun kedepan kita diwajibkan untuk menyebar luaskan berita penemuan harta karun ini dengan tujuan untuk mencari tahu siapa pemilik sebenarnya harta ini,
+                            <br> jika 1 tahun sudah terlweati dan tidak ada yang merasa memiliki harta ini maka harta itu kita bisa hak milik dengan syarat mengeluarkan zakatnya sebesar 20% dari harta tersebut.
+
+                            </p>
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-6">
+                    <div class="pet_thumb">
+                        <img src="<?= BASEURL; ?>/assets_web/img/about/rikaz.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+     <div class="container px-4 text-center">
+     <div class="row gx-5">
+      <div class="col">
+      <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Bayar Zakat </a></div>
+      </div>
+      <div class="col">
+      <div class="p-3"><a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Konsultasi Zakat</a></div>
+      </div>
+    </div>
+    </div>
+  </div>
+
+    <!-- pet_care_area_end  Rikaz -->
+    <!-- pet_care_area_start Emas perak  -->
+    <div class="pet_care_area">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-6">
+                    <div class="pet_thumb">
+                        <img src="<?= BASEURL; ?>/assets_web/img/about/emas.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 offset-lg-1 col-md-6">
+                    <div class="pet_info">
+                        <div class="section_title">
+                        <h4> <span>Zakat Emas dan perak </span>
+                                </h4>
+                            <p> Zakat Emas dan Perak adalah zakat yang wajib dikeluarkan oleh muslim ketika mempunyai emas dan perak dengan nisab 20 mistaqol atau 1,5 dirham (93,6 gram ) untuk emas dan 100 dirham (624 gram ) untuk pera, dan keduanya merupakan emas dan perak simpanan dalam artian tidak dikenakan<br> yang dimiliki selama 1 tahun,adapun zakat yang harus dikeluarkannya adalah 1/4 dari 1/10 atau 2,5%<br>
+                            penjelasan lehih lanjut seperti table berikut  
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- pet_care_area_end  -->
+
+<!--  awal table Emas perak  Emas perak -->
+<div class=" p-5">
+<table class="table  table-bordered border-primary ">
+  <thead>
+    <tr>
+      <th scope="col">No</th>
+      <th scope="col">Jenis</th>
+      <th scope="col">Nisab/Haul</th>
+      <th scope="col">Zakat yang dibayarkan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Emas</td>
+      <td>93,6 gram/1tahun </td>
+      <td>2,5%</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Perak</td>
+      <td>624 gram/1tahun</td>
+      <td>2,5%</td>
+    </tr>
+    
+  </tbody>
+</table>
+<div class="container px-4 text-center">
+  <div class="row gx-5">
+    <div class="col">
+     <div class="p-3"> <a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Bayar Zakat </a></div>
+    </div>
+    <div class="col">
+      <div class="p-3"><a href="<?=BASEURL;?>/Web/donasi" class="boxed-btn3">Konsultasi Zakat</a></div>
+    </div>
+  </div>
+</div>
+</div>
+<!--  akhir table Emas perak  -->
